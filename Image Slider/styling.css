@@ -1,0 +1,23 @@
+a{
+	cursor:pointer;
+}
+#btn1{
+	/*padding-right:30px;*/
+	border-radius:30px;
+
+	
+}
+
+#btn2{
+	padding-left:980px;
+
+}
+
+img{
+	width:958px;
+	height:578px;
+}
+
+.wrapper{
+	margin-left:250px;
+}
